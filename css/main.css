@@ -3,6 +3,12 @@ body {
     width: 70%;
 }
 
+#main {
+  width: 1200px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Calibri', 'Arial', 'Sans-Serif';
     padding: 0px;
