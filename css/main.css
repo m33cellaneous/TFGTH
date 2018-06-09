@@ -1,6 +1,10 @@
 body {
     margin: auto;
     width: 70%;
+    font-family:'Helvetica', 'Calibri', 'Arial', 'Sans-Serif';
+    font-size: .875em;
+    line-height: 1em;
+    color: #ffffff;
 }
 
 #main {
