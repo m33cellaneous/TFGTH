@@ -3,7 +3,7 @@ body {
     width: 70%;
     font-family:'Helvetica', 'Calibri', 'Arial', 'Sans-Serif';
     font-size: .875em;
-    line-height: 1.25em;
+    line-height: 150%;
     color: #000000;
 }
 
@@ -43,7 +43,7 @@ h1 {
 p {
     font-family:'Helvetica', 'Calibri', 'Arial', 'Sans-Serif';
     font-size: .875em;
-    line-height: 1.25em;
+    line-height: 150%;
     color: #000000;
 }
 
