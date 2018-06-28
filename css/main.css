@@ -7,6 +7,15 @@ body {
     color: #000000;
 }
 
+br {
+    margin: auto;
+    width: 70%;
+    font-family:'Helvetica', 'Calibri', 'Arial', 'Sans-Serif';
+    font-size: .875em;
+    line-height: 150%;
+    color: #000000;
+}
+
 #main {
   width: 1200px ;
   margin-left: auto ;
