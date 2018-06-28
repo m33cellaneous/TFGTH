@@ -11,6 +11,10 @@ body {
   width: 1200px ;
   margin-left: auto ;
   margin-right: auto ;
+  font-family:'Helvetica', 'Calibri', 'Arial', 'Sans-Serif';
+  font-size: .875em;
+  line-height: 150%;
+  color: #000000;
 }
 
 nav ul, footer ul {
